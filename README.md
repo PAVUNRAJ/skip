@@ -1,1 +1,1 @@
-# skip
+Skip brings your iPhone app to Android. As you develop your modern Swift and SwiftUI iOS app, Skip's intelligent transpiler generates the equivalent Kotlin and Compose Android app alongside it. Deliver fully native apps for both the App Store and Play Store with one team, one language, and one codebase.
